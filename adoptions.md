@@ -20,7 +20,7 @@ rel="ATS logo"><img src="/assets/images/ats_logo.png" width="200"></a>
 <a
 href="https://github.com/theupdateframework/notary"
 rel="Notary logo"><img src="/assets/images/notary_logo.png"
-width="200"></a> 
+width="200"></a>
 <a href="https://console.bluemix.net/docs/services/Registry/registry_trusted_content.html#registry_trustedcontent"
 rel="IBM logo"><img src="/assets/images/ibm_logo.jpg"
 width="200"></a>
@@ -54,6 +54,10 @@ rel="Airbiquity logo"><img src="/assets/images/airbiquity.png"
 width="200"></a>
 <a href="https://github.com/goharbor/harbor/blob/master/docs/use_notary.md"
 rel="Harbor logo"><img src="/assets/images/harbor_logo.png"
+width="200"></a>
+<a href="
+https://www.datadoghq.com/blog/engineering/secure-publication-of-datadog-agent-integrations-with-tuf-and-in-toto/"
+rel="DataDog logo"><img src="/assets/images/dd_v_logo.png"
 width="200"></a>
 
 ### Ongoing
